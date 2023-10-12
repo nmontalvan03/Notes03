@@ -9,9 +9,9 @@ networks, software among other services that benefit through the Internet giving
 e economy, and applications that you want to use for cloud computing whether for business or in
 individual.
 
-the global Infrastructure is a designed para brindarle una mejor flexibilidad de eligir donde y como desea 
-ejecutar la carga de trabajo tambien da seguridad  cloud computing con un alta calidad  en el rendimiento
-de la red global.
+the global Infrastructure is a designed to give you better flexibility to choose where and how you want
+running the workload also provides cloud computing security with high quality performance
+of the global network.
 
 # AWS Regions
 
